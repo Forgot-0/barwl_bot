@@ -2,7 +2,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from pars import *
 from button import *
 
-TOKEN = "1705450152:AAGnaIFa2xgob03m9dkD2Ja6QdDRL-fUyVA"
+TOKEN = ""
 
 bot = Bot(token= TOKEN)
 dp = Dispatcher(bot)
